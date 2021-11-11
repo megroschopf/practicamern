@@ -1,0 +1,7 @@
+.video-card{
+    transition: box-shadow .3s;
+}
+.video-card:hover{
+    box-shadow: 0 0 2px black;
+    cursor: pointer;
+}
